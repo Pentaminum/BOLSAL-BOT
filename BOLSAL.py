@@ -125,4 +125,4 @@ async def stop(ctx):
     else:
         await ctx.send("노래가 꺼져있다 멍")
         
-bot.run('Mjk5ODQ2MjE0Mzg2NzEyNTg3.WOdjjA.BTpb-hR52n85EXG74EGCR4Jgmpw')
+bot.run('my token')
